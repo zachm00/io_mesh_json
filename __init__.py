@@ -1,7 +1,7 @@
 bl_info = {
     "name": "JSON Mesh Export",
     "author": "Nathan Faucett",
-    "blender": (2,6,8),
+    "blender": (2,9,1),
     "version": (0,0,2),
     "location": "File > Import-Export",
     "description":  "Import-Export JSON data format (only export avalable now)",
